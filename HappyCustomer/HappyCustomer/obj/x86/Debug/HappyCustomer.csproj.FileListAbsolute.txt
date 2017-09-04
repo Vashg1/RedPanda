@@ -1,0 +1,8 @@
+C:\Users\govgo\documents\visual studio 2010\Projects\HappyCustomer\HappyCustomer\obj\x86\Debug\HappyCustomer.Form1.resources
+C:\Users\govgo\documents\visual studio 2010\Projects\HappyCustomer\HappyCustomer\obj\x86\Debug\HappyCustomer.Properties.Resources.resources
+C:\Users\govgo\documents\visual studio 2010\Projects\HappyCustomer\HappyCustomer\obj\x86\Debug\HappyCustomer.csproj.GenerateResource.Cache
+C:\Users\govgo\documents\visual studio 2010\Projects\HappyCustomer\HappyCustomer\bin\Debug\HappyCustomer.exe
+C:\Users\govgo\documents\visual studio 2010\Projects\HappyCustomer\HappyCustomer\bin\Debug\HappyCustomer.pdb
+C:\Users\govgo\documents\visual studio 2010\Projects\HappyCustomer\HappyCustomer\obj\x86\Debug\HappyCustomer.exe
+C:\Users\govgo\documents\visual studio 2010\Projects\HappyCustomer\HappyCustomer\obj\x86\Debug\HappyCustomer.pdb
+C:\Users\govgo\Documents\Visual Studio 2010\Projects\HappyCustomer\HappyCustomer\obj\x86\Debug\HappyCustomer.csprojResolveAssemblyReference.cache
